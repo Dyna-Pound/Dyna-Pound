@@ -1,4 +1,3 @@
-# Dynapound
 
 ![Dynapound Logo](./images/readme-head-large.png)
 
