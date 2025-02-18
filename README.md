@@ -1,6 +1,6 @@
 # Dynapound
 
-![Dynapound Logo](./images/readme-head.png)
+![Dynapound Logo](./images/readme-head-large.png)
 
 Welcome to **Dynapound**! We're a team of developers and creators who are passionate about crafting innovative, scalable, and high-performance software solutions. Our goal is to bring ideas to life with cutting-edge technology, helping businesses and individuals navigate the digital landscape with ease.
 
